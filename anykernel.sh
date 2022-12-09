@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=BlackSerpent Kernel by Suresh S
+kernel.string=Pikachu Kernel by Suresh S
 do.devicecheck=1
 do.modules=0
 do.systemless=1
